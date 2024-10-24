@@ -1,6 +1,5 @@
 site_name: A Considered Approach to Technical Interviews
-repo_url: https://github.com/class-act-org/flip-the-interview/
-site_url: https://class-act-org.github.io/flip-the-interview/
+
 theme:
   name: null
   custom_dir: "cinder"
@@ -9,6 +8,7 @@ theme:
     - content.footnote.tooltips
 
 nav:
+  - Home: index.md
   - As a Stakeholder: interviewer.md
   - As a Candidate: interviewee.md
 
