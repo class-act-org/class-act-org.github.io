@@ -1,6 +1,6 @@
 # How to Structure the Demo
 
-A demo interview shifts the focus from isolated coding challenges to a more hands-on demonstration of the candidate’s real-world problem-solving abilities. As an interviewer, guiding the structure of the demo is key to ensuring it provides the insights you need while giving the candidate a chance to showcase their skills effectively.
+A demo interview shifts the focus from isolated coding challenges to a more hands-on demonstration of the candidate’s real-world problem-solving abilities. As an stakeholder, guiding the structure of the demo is key to ensuring it provides the insights you need while giving the candidate a chance to showcase their skills effectively.
 
 Here’s how you can help structure the demo for the best results:
 

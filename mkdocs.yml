@@ -11,8 +11,8 @@ theme:
 
 nav:
   - Home: index.md
-  - As a Stakeholder: interviewer/index.md
-  - As a Candidate: interviewee/index.md
+  - As a Stakeholder: stakeholder/index.md
+  - As a Candidate: candidate/index.md
 
 markdown_extensions:
   - footnotes

@@ -4,7 +4,7 @@ This guide presents a novel approach to career job interviews[^1] in the tech in
 
 That’s why I propose an alternative: Flip the interview on its head by doing a demo instead.
 
-This guide outlines how you can vastly improve the effectiveness of the limited time in an interview by showcasing your work through a live demonstration. By allowing the interviewers to engage with your project in real-time, you create an opportunity for genuine dialogue and deeper insight into your capabilities.
+This guide outlines how you can vastly improve the effectiveness of the limited time in an interview by showcasing your work through a live demonstration. By allowing the stakeholders to engage with your project in real-time, you create an opportunity for genuine dialogue and deeper insight into your capabilities.
 
 ---
 
@@ -30,6 +30,6 @@ While this method has its advantages, it does require that the candidate be thor
 
 ## 6. [Closing the Deal](closing)
 
-A successful demo interview doesn’t just show your technical skills—it demonstrates your ability to communicate, adapt, and think critically in real-time. For interviewers, this process offers a unique perspective on how candidates approach problem-solving in practical, real-world scenarios. For interviewees, it’s an opportunity to leave a lasting impression by taking control of the narrative. Embrace the conversation, be open to feedback, and show them how you’ll make an impact beyond just answering questions.
+A successful demo interview doesn’t just show your technical skills—it demonstrates your ability to communicate, adapt, and think critically in real-time. For stakeholders, this process offers a unique perspective on how candidates approach problem-solving in practical, real-world scenarios. For Candidates, it’s an opportunity to leave a lasting impression by taking control of the narrative. Embrace the conversation, be open to feedback, and show them how you’ll make an impact beyond just answering questions.
 
 [^1]: To clarify, A *career job interview*, in this context, is any interview for a higher-level (senior and above) position that would benefit from a demonstration of knowledge approach.

@@ -16,4 +16,4 @@ Preparing for a demo requires careful planning to ensure you can confidently gui
 5. **Structure the Demo**:
    - **Set the Context**: Start by explaining the project’s purpose and the problem it solves.
    - **Walk Through Key Features**: Demonstrate the core features, explaining your design decisions and technical challenges.
-   - **Encourage Questions**: Invite the interviewers to ask questions at any time to create an interactive experience.
+   - **Encourage Questions**: Invite the stakeholders to ask questions at any time to create an interactive experience.

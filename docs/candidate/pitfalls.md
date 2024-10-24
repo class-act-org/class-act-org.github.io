@@ -26,7 +26,7 @@ This will ensure you get a more complete picture of their technical depth.
 
 ### 3. Overemphasis on Presentation Skills
 
-While a demo can provide insight into a candidate’s communication and technical skills, there’s a risk that interviewers may overemphasize presentation skills, which may not be directly relevant to the role.
+While a demo can provide insight into a candidate’s communication and technical skills, there’s a risk that stakeholders may overemphasize presentation skills, which may not be directly relevant to the role.
 
 - **How to Avoid**: Keep the focus on the **content** of the demo rather than how polished the presentation is. Make sure to assess the candidate’s technical decisions, problem-solving approach, and adaptability rather than how smooth or well-rehearsed the demo is. You can even ask questions that shift the candidate’s focus away from the script, such as:
 

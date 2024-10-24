@@ -1,6 +1,6 @@
 # What Does This Achieve?
 
-Flipping the interview to focus on a live demo allows you to gain a more comprehensive and practical understanding of a candidate’s abilities. By shifting away from traditional coding exercises and focusing on real-world applications, this approach achieves several key benefits for interviewers.
+Flipping the interview to focus on a live demo allows you to gain a more comprehensive and practical understanding of a candidate’s abilities. By shifting away from traditional coding exercises and focusing on real-world applications, this approach achieves several key benefits for stakeholders.
 
 ### 1. Depth Over Breadth
 

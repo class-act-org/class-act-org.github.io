@@ -1,4 +1,4 @@
-# Introduction: Flipping the Interview as an Interviewer
+# Introduction: Flipping the Interview as an Stakeholder
 
 In traditional technical interviews, the emphasis is often placed on a candidate’s ability to solve coding challenges or answer hypothetical questions quickly. While this approach can test certain skills, it doesn’t always reveal how candidates will perform in real-world, day-to-day situations—particularly when it comes to solving actual business problems.
 
@@ -16,7 +16,7 @@ Shifting the focus from isolated questions to a live demo provides several advan
 
 ### How Does It Work?
 
-As an interviewer, you would ask the candidate to walk through a project they’ve built, ideally one that showcases relevant skills for the role. During the demo, you can:
+As an stakeholder, you would ask the candidate to walk through a project they’ve built, ideally one that showcases relevant skills for the role. During the demo, you can:
 
 - Ask about the project's goals and the problems it solves.
 - Dive into specific technical details, exploring their approach to design, architecture, or particular challenges.
