@@ -1,0 +1,15 @@
+site_name: A Considered Approach to Technical Interviews
+
+theme:
+  name: null
+  custom_dir: "cinder"
+
+  features:
+    - content.footnote.tooltips
+
+nav:
+  - As an Stakeholder: interviewer.md
+  - As an Candidate: interviewee.md
+
+markdown_extensions:
+  - footnotes
