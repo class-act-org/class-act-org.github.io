@@ -16,10 +16,11 @@ Some candidates may prepare a polished demo but fail to dive deeply into the tec
 
 - **How to Avoid**: Encourage the candidate to dive deep into their technical decisions and challenges during the demo. Ask probing questions like:
 
-> _"Can you explain the trade-offs you considered when choosing this architecture?"_
+  > _"Can you explain the trade-offs you considered when choosing this architecture?"_
 
-> _"What specific challenges did you face with performance, and how did you resolve them?"_
-  This will ensure you get a more complete picture of their technical depth.
+  > _"What specific challenges did you face with performance, and how did you resolve them?"_
+  
+This will ensure you get a more complete picture of their technical depth.
 
 ---
 
