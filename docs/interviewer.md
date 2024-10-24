@@ -1,6 +1,6 @@
 # Flip the Interview on Its Head, Do a Demo Instead!
 
-This guide presents a novel approach to career job interviews[^1] in the tech industry, especially tailored for situations like the [Technical Interview](https://example.com). As someone on the autism spectrum, I’ve personally struggled with the typical interview format. The traditional technical interview—with its focus on coding challenges and rapid problem-solving—doesn’t closely reflect the day-to-day realities of software development.
+This guide presents a novel approach to career job interviews[^1] in the tech industry, especially tailored for situations like the Technical Interview. As someone on the autism spectrum, I’ve personally struggled with the typical interview format. The traditional technical interview—with its focus on coding challenges and rapid problem-solving—doesn’t closely reflect the day-to-day realities of software development.
 
 That’s why I propose an alternative: Flip the interview on its head by doing a demo instead.
 

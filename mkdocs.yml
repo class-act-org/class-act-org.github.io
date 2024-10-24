@@ -1,4 +1,6 @@
 site_name: A Considered Approach to Technical Interviews
+repo_url: https://github.com/class-act-org/class-act-org.github.io
+site_url: https://class-act-org.github.io/
 
 theme:
   name: null
