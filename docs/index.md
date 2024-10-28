@@ -1,4 +1,5 @@
 # Flip the Interview on Its Head: Do a Demo Instead!
+
 Welcome to a guide that introduces a novel approach to technical interviews in the software industry: flipping the interview by focusing on a live demo of your work. This technique is beneficial for both stakeholders and candidates, creating a more engaging, practical way to assess and showcase technical skills.
 
 As someone on the [autism spectrum](https://www.youtube.com/watch?v=gyuP7Q1fk9g), I’ve personally found that traditional technical interviews often don’t reflect the realities of how I work day-to-day. They tend to focus on isolated problem-solving under pressure, which can be challenging for anyone, but especially so when neurodivergence affects how you process information in high-pressure situations. That’s why this demo-based approach offers a more inclusive and comprehensive way to evaluate skills, allowing for a more natural flow of conversation and interaction around a project the candidate has already built.
@@ -14,7 +15,7 @@ As an stakeholder, this method helps you gain a clearer, more hands-on understan
 - Encourage candidates to demo their work.
 - Ask the right questions during a demo.
 - Evaluate a candidate's ability to adapt and explain their decisions.
-
+    
 [Start Here: Stakeholder’s Guide](/stakeholder)
 
 ## For Candidates
